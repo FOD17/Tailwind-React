@@ -1,12 +1,11 @@
-import HoverExamples from './components/base-tutorial/01-HoverExamples/HoverExamples';
+import DarkMode from "./components/base-tutorial/02-DarkMode/DarkMode"
 
 function App() {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <HoverExamples />
+      <DarkMode />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
