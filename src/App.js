@@ -1,9 +1,9 @@
-import FormState from './components/base-tutorial/04-FormState/FormState';
+import AspectRatio from './components/base-tutorial/06-AspectRatio/AspectRatio';
 
 function App() {
   return (
     <div>
-      <FormState />
+      <AspectRatio />
     </div>
   );
 }

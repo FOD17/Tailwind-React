@@ -9,10 +9,8 @@ Note: Add as some concepts become too big for one video
 - Before/After Examples: DONE
 - Form States Examples: DONE
 - Dark Mode: DONE
-- Extract Classes with @apply
-- Custom breakpoints
-- Custom Colors
-- Aspect Ratio
+- Extract Color Classes with @apply: (look in tailwind.config.js class) DONE
+- Aspect Ratio: Done
 - Container
 - Columns
 - Break After, Before, Inside
