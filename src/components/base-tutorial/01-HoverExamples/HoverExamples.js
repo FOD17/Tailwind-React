@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react';
 
 // Can't chain multiple hover/focus examples. One at a time
 export default function HoverExamples() {
@@ -16,5 +16,5 @@ export default function HoverExamples() {
         />
       </div>
     </div>
-  )
+  );
 }

@@ -3,11 +3,12 @@
 Tailwind for React
 Note: Add as some concepts become too big for one video
 
-- Install
-- Hover Examples
-- Focus Examples
-- Form States Examples
-- Dark Mode
+- Install: DONE
+- Hover Examples: DONE
+- Focus Examples: DONE
+- Before/After Examples: DONE
+- Form States Examples: DONE
+- Dark Mode: DONE
 - Extract Classes with @apply
 - Custom breakpoints
 - Custom Colors
