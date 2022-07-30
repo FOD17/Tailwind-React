@@ -1,11 +1,11 @@
-import Clear from "./components/base-tutorial/11-Clear/Clear"
+import Position from './components/base-tutorial/13-Position/Position';
 
 function App() {
   return (
     <div>
-      <Clear />
+      <Position />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
