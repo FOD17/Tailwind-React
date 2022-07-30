@@ -1,9 +1,9 @@
-import Floats from "./components/base-tutorial/10-Float/Floats"
+import Clear from "./components/base-tutorial/11-Clear/Clear"
 
 function App() {
   return (
     <div>
-      <Floats />
+      <Clear />
     </div>
   )
 }

@@ -15,7 +15,8 @@ Note: Add as some concepts become too big for one video
 - Columns: Done
 - Display: Done
 - Floats: Done
-- Clear
+- Clear: Done
+- Object Fit:
 - Position
 - Overflow
 - Overscroll Behavior
