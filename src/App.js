@@ -1,11 +1,11 @@
-import AspectRatio from './components/base-tutorial/06-AspectRatio/AspectRatio';
+import Floats from "./components/base-tutorial/10-Float/Floats"
 
 function App() {
   return (
     <div>
-      <AspectRatio />
+      <Floats />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

@@ -11,12 +11,10 @@ Note: Add as some concepts become too big for one video
 - Dark Mode: DONE
 - Extract Color Classes with @apply: (look in tailwind.config.js class) DONE
 - Aspect Ratio: Done
-- Container
-- Columns
-- Break After, Before, Inside
-- Box Sizing
-- Display
-- Floats
+- Container: Done
+- Columns: Done
+- Display: Done
+- Floats: Done
 - Clear
 - Position
 - Overflow
