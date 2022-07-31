@@ -1,9 +1,9 @@
-import Position from './components/base-tutorial/13-Position/Position';
+import PositionSticky from './components/base-tutorial/13-Position/PositionSticky';
 
 function App() {
   return (
     <div>
-      <Position />
+      <PositionSticky />
     </div>
   );
 }

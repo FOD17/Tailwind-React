@@ -17,6 +17,11 @@ Note: Add as some concepts become too big for one video
 - Floats: Done
 - Clear: Done
 - Position
+   - Static
+   - Relative
+   - Absolute
+   - Sticky
+   - Fixed
 - Overflow: Done
 - Visibility
 - Z-index
