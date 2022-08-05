@@ -1,9 +1,9 @@
-import ZIndex from "./components/base-tutorial/15-ZIndex/ZIndex"
+import TRBL from "./components/base-tutorial/16-top-right-bottom-left/TRBL"
 
 function App() {
   return (
     <div>
-      <ZIndex />
+      <TRBL />
     </div>
   )
 }

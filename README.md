@@ -25,7 +25,7 @@ Note: Add as some concepts become too big for one video
 - Overflow: Done
 - Visibility: Done
 - Z-index: Done
-- Top-right-bottom-left
+- Top-right-bottom-left: Done
 - Flex-box
 - Spacing
 - Sizing
