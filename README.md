@@ -17,14 +17,15 @@ Note: Add as some concepts become too big for one video
 - Floats: Done
 - Clear: Done
 - Position
-   - Static
-   - Relative
-   - Absolute
-   - Sticky
-   - Fixed
+  - Static
+  - Relative
+  - Absolute
+  - Sticky
+  - Fixed
 - Overflow: Done
-- Visibility
-- Z-index
+- Visibility: Done
+- Z-index: Done
+- Top-right-bottom-left
 - Flex-box
 - Spacing
 - Sizing
