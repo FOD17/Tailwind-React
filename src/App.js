@@ -1,9 +1,9 @@
-import Padding from "./components/base-tutorial/20-Padding/Padding"
+import Width from "./components/base-tutorial/23-Width/Width"
 
 function App() {
   return (
     <div>
-      <Padding />
+      <Width />
     </div>
   )
 }

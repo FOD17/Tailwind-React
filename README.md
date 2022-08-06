@@ -29,7 +29,7 @@ Note: Add as some concepts become too big for one video
 - Flex-box: Done
 - Grid: Done
 - Justify/Align:Done
-- Spacing
+- Spacing: Done
 - Sizing
 - Typography
 - Backgrounds
