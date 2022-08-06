@@ -1,9 +1,9 @@
-import Grid from "./components/base-tutorial/18-Grid/Grid"
+import Padding from "./components/base-tutorial/20-Padding/Padding"
 
 function App() {
   return (
     <div>
-      <Grid />
+      <Padding />
     </div>
   )
 }
