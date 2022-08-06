@@ -26,7 +26,9 @@ Note: Add as some concepts become too big for one video
 - Visibility: Done
 - Z-index: Done
 - Top-right-bottom-left: Done
-- Flex-box
+- Flex-box: Done
+- Grid
+- Justify:
 - Spacing
 - Sizing
 - Typography

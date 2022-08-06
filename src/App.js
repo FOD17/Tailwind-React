@@ -1,9 +1,9 @@
-import TRBL from "./components/base-tutorial/16-top-right-bottom-left/TRBL"
+import Grid from "./components/base-tutorial/18-Grid/Grid"
 
 function App() {
   return (
     <div>
-      <TRBL />
+      <Grid />
     </div>
   )
 }
