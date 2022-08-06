@@ -30,7 +30,7 @@ Note: Add as some concepts become too big for one video
 - Grid: Done
 - Justify/Align:Done
 - Spacing: Done
-- Sizing
+- Sizing: Done
 - Typography
 - Backgrounds
 - Borders

@@ -1,9 +1,9 @@
-import Width from "./components/base-tutorial/23-Width/Width"
+import Height from "./components/base-tutorial/25-Height/Height"
 
 function App() {
   return (
     <div>
-      <Width />
+      <Height />
     </div>
   )
 }
