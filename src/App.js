@@ -1,9 +1,9 @@
-import Height from "./components/base-tutorial/25-Height/Height"
+import FontSmoothing from "./components/base-tutorial/27-FontSmoothing/FontSmoothing"
 
 function App() {
   return (
     <div>
-      <Height />
+      <FontSmoothing />
     </div>
   )
 }

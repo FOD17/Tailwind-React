@@ -31,7 +31,24 @@ Note: Add as some concepts become too big for one video
 - Justify/Align:Done
 - Spacing: Done
 - Sizing: Done
-- Typography
+- Font Family/Size:
+- Font Smoothing:
+- Font Style:
+- Font Weight:
+- Font Variant Numeric:
+- Letter Spacing/Line Height:
+- Lists
+- Text Align:
+- Text Color:
+- Text Decoration:
+- Text Underline:
+- Text Transform:
+- Text Overflow:
+- Text Indent:
+- Vertical Align:
+- White Space:
+- Word Space:
+- Content:
 - Backgrounds
 - Borders
 - Box Shadow
