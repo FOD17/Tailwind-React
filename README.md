@@ -31,12 +31,11 @@ Note: Add as some concepts become too big for one video
 - Justify/Align:Done
 - Spacing: Done
 - Sizing: Done
-- Font Family/Size:
-- Font Smoothing:
-- Font Style:
-- Font Weight:
-- Font Variant Numeric:
-- Letter Spacing/Line Height:
+- Font Family/Size: DONE
+- Font Smoothing: DONE
+- Font Style: DONE
+- Font Weight: DONE
+- Letter Spacing/Line Height: DONE
 - Lists
 - Text Align:
 - Text Color:

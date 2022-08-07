@@ -1,9 +1,9 @@
-import FontSmoothing from "./components/base-tutorial/27-FontSmoothing/FontSmoothing"
+import ListStyleType from "./components/base-tutorial/31-ListStyleType/ListStyleType"
 
 function App() {
   return (
     <div>
-      <FontSmoothing />
+      <ListStyleType />
     </div>
   )
 }
