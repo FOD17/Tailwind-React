@@ -1,9 +1,9 @@
-import TextDecorate from "./components/base-tutorial/34-TextDecorate/TextDecorate"
+import TextOverflow from "./components/base-tutorial/36-TextOverflow/TextOverflow"
 
 function App() {
   return (
     <div>
-      <TextDecorate />
+      <TextOverflow />
     </div>
   )
 }

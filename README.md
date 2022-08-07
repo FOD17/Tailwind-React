@@ -38,9 +38,9 @@ Note: Add as some concepts become too big for one video
 - Letter Spacing/Line Height: DONE
 - List Style Type: DONE
 - List Style Position: DONE
-- Text Align/Color/Decoration/Underline:
-- Text Transform:
-- Text Overflow:
+- Text Align/Color/Decoration/Underline: DONE
+- Text Transform: DONE
+- Text Overflow: DONE
 - Text Indent:
 - Vertical Align:
 - White Space:
