@@ -36,11 +36,9 @@ Note: Add as some concepts become too big for one video
 - Font Style: DONE
 - Font Weight: DONE
 - Letter Spacing/Line Height: DONE
-- Lists
-- Text Align:
-- Text Color:
-- Text Decoration:
-- Text Underline:
+- List Style Type: DONE
+- List Style Position: DONE
+- Text Align/Color/Decoration/Underline:
 - Text Transform:
 - Text Overflow:
 - Text Indent:

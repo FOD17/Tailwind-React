@@ -1,9 +1,9 @@
-import ListStyleType from "./components/base-tutorial/31-ListStyleType/ListStyleType"
+import TextDecorate from "./components/base-tutorial/34-TextDecorate/TextDecorate"
 
 function App() {
   return (
     <div>
-      <ListStyleType />
+      <TextDecorate />
     </div>
   )
 }
