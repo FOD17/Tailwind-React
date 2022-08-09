@@ -41,12 +41,8 @@ Note: Add as some concepts become too big for one video
 - Text Align/Color/Decoration/Underline: DONE
 - Text Transform: DONE
 - Text Overflow: DONE
-- Text Indent:
-- Vertical Align:
-- White Space:
-- Word Space:
-- Content:
-- Backgrounds
+- Text Indent: DONE
+- Vertical Align: DONE
 - Borders
 - Box Shadow
 - Opacity

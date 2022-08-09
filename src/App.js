@@ -1,9 +1,9 @@
-import TextOverflow from "./components/base-tutorial/36-TextOverflow/TextOverflow"
+import Divide from "./components/base-tutorial/40-Divide/Divide"
 
 function App() {
   return (
     <div>
-      <TextOverflow />
+      <Divide />
     </div>
   )
 }
