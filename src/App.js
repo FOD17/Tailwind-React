@@ -1,9 +1,9 @@
-import Divide from "./components/base-tutorial/40-Divide/Divide"
+import BoxShadow from "./components/base-tutorial/43-BoxShadow/BoxShadow"
 
 function App() {
   return (
     <div>
-      <Divide />
+      <BoxShadow />
     </div>
   )
 }
