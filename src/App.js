@@ -1,9 +1,9 @@
-import BoxShadow from "./components/base-tutorial/43-BoxShadow/BoxShadow"
+import Blur from "./components/base-tutorial/45-Blur/Blur"
 
 function App() {
   return (
     <div>
-      <BoxShadow />
+      <Blur />
     </div>
   )
 }
