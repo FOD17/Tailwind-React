@@ -1,9 +1,9 @@
-import Blur from "./components/base-tutorial/45-Blur/Blur"
+import Sephia from "./components/base-tutorial/53-Sephia/Sephia"
 
 function App() {
   return (
     <div>
-      <Blur />
+      <Sephia />
     </div>
   )
 }
