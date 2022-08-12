@@ -1,11 +1,11 @@
-import Table from "./components/base-tutorial/63-Table/Table"
+import Transition from './components/base-tutorial/64-Transitions/Transition';
 
 function App() {
   return (
     <div>
-      <Table />
+      <Transition />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
