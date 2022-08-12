@@ -1,9 +1,9 @@
-import Transition from './components/base-tutorial/64-Transitions/Transition';
+import Animation from './components/base-tutorial/65-Animation/Animation';
 
 function App() {
   return (
     <div>
-      <Transition />
+      <Animation />
     </div>
   );
 }
