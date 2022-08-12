@@ -1,9 +1,9 @@
-import Sephia from "./components/base-tutorial/53-Sephia/Sephia"
+import Table from "./components/base-tutorial/63-Table/Table"
 
 function App() {
   return (
     <div>
-      <Sephia />
+      <Table />
     </div>
   )
 }
